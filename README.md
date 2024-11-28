@@ -16,7 +16,7 @@ Implementação de uma aplicação web em Flask com banco de dados MariaDB, inte
  ## Como Executar
 
 ```bash
-git clone https://github.com/usuario/Trabalho_DevOps_RA.git
+git clone https://github.com/usuario/Trabalho_DevOps_1801828.git
 cd Trabalho_DevOps_1801828
 # Clonar
 ```
