@@ -17,7 +17,7 @@ Implementação de uma aplicação web em Flask com banco de dados MariaDB, inte
 
 ```bash
 git clone https://github.com/usuario/Trabalho_DevOps_RA.git
-cd Trabalho_DevOps_RA
+cd Trabalho_DevOps_1801828
 # Clonar
 ```
 
