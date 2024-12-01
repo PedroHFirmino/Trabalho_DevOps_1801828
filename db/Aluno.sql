@@ -7,3 +7,5 @@ CREATE TABLE alunos (
     nome VARCHAR(100) NOT NULL,
     ra VARCHAR(20) NOT NULL UNIQUE
 );
+
+
