@@ -1,6 +1,9 @@
-from flask import render_template
+from flask import Blueprint, render_template
 
-def init_app(app):
-    @app.route('/')
-    def home():
-        return "Devops"
+
+main = Blueprint('main', __name__)
+
+
+@main.route('/')
+def home():
+    return "Devops"
