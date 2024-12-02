@@ -9,6 +9,7 @@ from sqlalchemy.exc import OperationalError
 from prometheus_flask_exporter import PrometheusMetrics
 import logging
 
+
 app = Flask(__name__)
 
 metrics = PrometheusMetrics(app)
